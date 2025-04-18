@@ -1,0 +1,10 @@
+{
+  "api_id": "YOUR_API_ID",
+  "api_hash": "YOUR_API_HASH",
+  "phone": "YOUR_PHONE_NUMBER",
+  "base_delay_seconds": 3,
+  "max_retries": 3,
+  "workers": 1,
+  "use_proxy": false,
+  "proxy_url": ""
+}
